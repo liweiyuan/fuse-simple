@@ -1,0 +1,16 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.whl
+*.egg-info
+*.egg
+*.so
+*.dll
+
+
+# 虚拟环境
+venv/
+ENV/
+env/
