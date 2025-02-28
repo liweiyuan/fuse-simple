@@ -29,7 +29,7 @@ fuse-sample/
 
 ```bash
 sudo apt update
-sudo apt install fuse libfuse-dev
+sudo apt install  libfuse-dev
 ```
 
 **macOS:**
